@@ -6,6 +6,8 @@ A highly customizable and secure random password generator. Designed with a dark
 ## Live Demo
 [Live Demo Link](https://ayushkumar563.github.io/password-generator/)
 
+![App Screenshot](screenshot.png)
+
 ## Tech Stack
 - **HTML5** 
 - **CSS3** (Tactile Brutalism, sharp UI edges, CSS Variables, Custom Range Sliders)
