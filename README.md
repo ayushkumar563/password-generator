@@ -4,7 +4,7 @@
 A highly customizable and secure random password generator. Designed with a dark Tactile Brutalism aesthetic, this tool helps you instantly generate strong passwords and copy them to your clipboard with a single click.
 
 ## Live Demo
-[Live Demo Link](#) *(Replace with actual GitHub Pages or Netlify link once deployed)*
+[Live Demo Link](https://ayushkumar563.github.io/password-generator/)
 
 ## Tech Stack
 - **HTML5** 
